@@ -1,0 +1,15 @@
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.exe
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.deps.json
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.runtimeconfig.json
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.dll
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\bin\Debug\net10.0\DotNetDebugging.pdb
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.GeneratedMSBuildEditorConfig.editorconfig
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfoInputs.cache
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.AssemblyInfo.cs
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.csproj.CoreCompileInputs.cache
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.sourcelink.json
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.dll
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\refint\DotNetDebugging.dll
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.pdb
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\DotNetDebugging.genruntimeconfig.cache
+Z:\School\Fall 2026\CSE-325\CSE-325\DotNetDebugging\obj\Debug\net10.0\ref\DotNetDebugging.dll
