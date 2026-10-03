@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {}
+    "Z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {
+    "Z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "Z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "Z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\Drew's PC\\.nuget\\packages\\",
-        "outputPath": "z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\obj\\",
+        "outputPath": "Z:\\School\\Fall 2026\\CSE-325\\CSE-325\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Drew's PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
